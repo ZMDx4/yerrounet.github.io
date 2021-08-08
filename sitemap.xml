@@ -2,12 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
 	<loc>https://yerrou.net/</loc>
-	<lastmod>2021-07-28</lastmod>
+	<lastmod>2021-08-08</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>1.0</priority>
 	<image:image>
 	<image:loc>https://yerrou.net/img/WhiteHero.png</image:loc>
-	<image:title>placeholder image</image:title>
+	<image:title>@Yerrou.net image</image:title>
 	</image:image>
 	<image:image>
 	<image:loc>https://yerrou.net/img/Hero.png</image:loc>
